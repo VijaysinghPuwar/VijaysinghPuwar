@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hello World! I'm Vijaysingh Puwar</h2>
+<h2 align="center">👋 Hello World! I'm Vijaysingh Puwar</h2>
 
 ###
 
@@ -43,6 +43,8 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ3Nmo0eXRlNnYzanFmM3Z4NjFpeXcyNXNkN3JncnZ6Yno3MmcwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9b7RA8UZj2Quad47m0/giphy.gif"  />
+<div align="center">
+  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ3Nmo0eXRlNnYzanFmM3Z4NjFpeXcyNXNkN3JncnZ6Yno3MmcwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9b7RA8UZj2Quad47m0/giphy.gif"  />
+</div>
 
 ###
