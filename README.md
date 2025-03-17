@@ -1,41 +1,66 @@
-# 👋 Hello, I'm Vijaysingh Puwar
+# 👋 Hello World! I'm Vijaysingh Puwar
 
-### 🔐 Cybersecurity Engineer | Ethical Hacker | Cloud Security Enthusiast
-
-I'm passionate about safeguarding digital environments through cybersecurity, ethical hacking, and cloud security. I regularly participate in Capture the Flag (CTF) events, contribute to open-source projects, and strive to make cybersecurity accessible and effective.
+I'm passionate about **Cybersecurity**, **Ethical Hacking**, and **Cloud Security**. With a strong foundation in Linux, data analysis, and cloud security, I actively participate in cybersecurity challenges, Capture the Flag (CTF) events, and contribute to open-source projects.
 
 ---
 
-### ⚙️ Technical Skills
-
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-- **Security Tools:** Metasploit, Burp Suite, Nmap, Splunk
-- **Cloud Platforms:** AWS, Google Cloud, Azure (IAM, MFA, Encryption)
-- **DevOps & CI/CD:** Docker, Git, Jenkins
-- **Operating Systems:** Linux, Windows, PowerShell
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWt5bmpxaTBpb2VxYzZ4MTVlc2Z1cWxkeXpyeDNwbmUybnBvbTFrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" alt="Cybersecurity GIF"/>
+</div>
 
 ---
 
-### 📚 Certifications
+### 🛠️ I Code With
 
-- ✅ Google Cybersecurity Certificate
-- ✅ ISC2 Candidate
-- 📖 Introduction to Computer Information Systems Specialization
-- 🤖 Google AI Essentials
-
----
-
-### 📈 GitHub Stats
-
-![GitHub Snake Animation](https://vijaysinghpuwar.github.io/VijaysinghPuwar/snake.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![R](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
 
 ---
 
-### 🔗 Connect With Me
+### 🔥 My GitHub Stats
 
-- [LinkedIn](https://www.linkedin.com/in/vijaysinghpuwar)
-- 📫 **Email:** [vpuwar925@gmail.com](mailto:vpuwar925@gmail.com)
+![Snake Animation](https://vijaysinghpuwar.github.io/VijaysinghPuwar/snake.svg)
 
 ---
 
-Feel free to reach out and collaborate!
+### 🌟 Skills
+
+![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
+![Google Cloud](https://skillicons.dev/icons?i=gcp)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Discord](https://skillicons.dev/icons?i=discord)
+![Docker](https://skillicons.dev/icons?i=docker)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Git](https://skillicons.dev/icons?i=git)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
+![Linux](https://skillicons.dev/icons?i=linux)
+![PowerShell](https://skillicons.dev/icons?i=powershell)
+![Sass](https://skillicons.dev/icons?i=sass)
+![Sequelize](https://skillicons.dev/icons?i=sequelize)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![WordPress](https://skillicons.dev/icons?i=wordpress)
+
+---
+
+### 📜 Certifications
+
+- Google Cybersecurity Certificate
+- Introduction to Computer Information Systems Specialization
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/vijaysinghpuwar)
+[![Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://twitter.com/your_twitter_handle)
+![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)
+![YouTube](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)
+
+---
+
+Feel free to connect or reach out to collaborate!
