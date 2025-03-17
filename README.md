@@ -27,7 +27,7 @@ I'm passionate about safeguarding digital environments through cybersecurity, et
 
 ### 📈 GitHub Stats
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/VijaysinghPuwar/VijaysinghPuwar/output/snake.svg)
+![GitHub Snake Animation](https://vijaysinghpuwar.github.io/VijaysinghPuwar/snake.svg)
 
 ---
 
