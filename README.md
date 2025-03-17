@@ -1,27 +1,16 @@
-<div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZmYnlxb3J6b2I1dnM0Y3M2ZmoyMzU5b290eGE2bnBvZGZ0ZXd3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<h1 align="center">Hello World!! 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
+<h1 align="center">👋 Hello World!!, I'm Vijaysingh Puwar 👋</h1>
 
 ###
 
 <p align="left">I'm passionate about cybersecurity, ethical hacking, and securing cloud infrastructures. With a strong foundation in Linux, data analysis, and cloud security, I actively engage in cybersecurity challenges, participate in Capture the Flag (CTF) events, and contribute to open-source projects.</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWt5bmpxaTBpb2VxYzZ4MTVlc2Z1cWxkeXpyeDNwbmUybnBvbTFrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif"  />
+</div>
 
 ###
 
@@ -96,5 +85,14 @@
 ###
 
 <p align="left">- Google Cybersecurity Certificate<br>- Introduction to Computer Information Systems Specialization</p>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
 
 ###
