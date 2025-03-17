@@ -4,12 +4,6 @@ I'm passionate about **Cybersecurity**, **Ethical Hacking**, and **Cloud Securit
 
 ---
 
-<div align="center">
-  <img height="150" src="https://media4.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" alt="Cybersecurity GIF"/>
-</div>
-
----
-
 ### 🛠️ I Code With
 
 <div align="left">
@@ -62,9 +56,6 @@ I'm passionate about **Cybersecurity**, **Ethical Hacking**, and **Cloud Securit
 ---
 
 <div align="center">
-  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ3Nmo0eXRlNnYzanFmM3Z4NjFpeXcyNXNkN3JncnZ6Yno3MmcwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9b7RA8UZj2Quad47m0/giphy.gif" alt="Cybersecurity Animation"/>
+  <img height="300" src="https://media1.giphy.com/media/9b7RA8UZj2Quad47m0/giphy.gif" alt="Cybersecurity Animation"/>
 </div>
 
----
-
-The last GIF wasn't playing correctly due to the original long URL parameters. The URL provided now is simplified to a direct link, ensuring better compatibility and autoplay support on GitHub Markdown.
