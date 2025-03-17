@@ -2,6 +2,8 @@
 
 I'm passionate about **Cybersecurity**, **Ethical Hacking**, and **Cloud Security**. With a strong foundation in Linux, data analysis, and cloud security, I actively participate in cybersecurity challenges, Capture the Flag (CTF) events, and contribute to open-source projects.
 
+---
+
 ### 🛠️ I Code With
 
 <p align="left">
