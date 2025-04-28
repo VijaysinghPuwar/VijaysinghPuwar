@@ -12,9 +12,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="34" alt="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" alt="Linux" />
-  <img src="https://cdn.simpleicons.org/burpsuite/FF8000" height="34" alt="Burp Suite" />
-  <img src="https://cdn.simpleicons.org/wireshark/167f92" height="34" alt="Wireshark" />
-  <img src="https://cdn.simpleicons.org/nmap/4692CE" height="34" alt="Nmap" />
+  <img src="https://skillicons.dev/icons?i=burpsuite" height="34" alt="Burp Suite" />
+  <img src="https://skillicons.dev/icons?i=wireshark" height="34" alt="Wireshark" />
+  <img src="https://skillicons.dev/icons?i=nmap" height="34" alt="Nmap" />
   <img src="https://skillicons.dev/icons?i=aws" height="34" alt="AWS" />
   <img src="https://skillicons.dev/icons?i=azure" height="34" alt="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="34" alt="Google Cloud" />
