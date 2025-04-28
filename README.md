@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hello, I'm <strong>Vijaysingh Puwar</strong></h1>
 
----
-
 ## 🌟 Skills
 
 <p align="left">
@@ -18,27 +16,22 @@
   <img src="https://skillicons.dev/icons?i=azure" height="34" alt="Azure" />
 </p>
 
----
-
 ## 📫 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vijaysinghpuwar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://tryhackme.com/p/GhostCipher" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+    <img src="https://img.shields.io/badge/TryHackMe-88cc14?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
   <a href="https://www.youtube.com/@vijaysinghpuwar" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
-
----
 
 ## 📊 GitHub Stats & Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" width="420" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="420" alt="Top Languages" />
 </p>
-
