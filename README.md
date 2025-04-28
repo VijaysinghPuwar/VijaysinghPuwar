@@ -4,10 +4,10 @@
 </p>
 
 ## 🌟 Skills
-<p align="left" style="display:flex;gap:6px;flex-wrap:wrap;"> style="display:flex;gap:6px;flex-wrap:wrap;">
+<p align="left" style="display:flex;gap:6px;flex-wrap:wrap;">
   <!-- Security & Cyber‑Ops first -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.11.0/icons/burpsuite.svg"  height="34" alt="Burp Suite" style="filter:invert(66%) sepia(78%) saturate(740%) hue-rotate(343deg) brightness(100%) contrast(97%);" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.11.0/icons/wireshark.svg" height="34" alt="Wireshark" style="filter:invert(37%) sepia(58%) saturate(1460%) hue-rotate(167deg) brightness(98%) contrast(96%);" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/burpsuite-colored.svg" height="34" alt="Burp Suite" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wireshark-colored.svg" height="34" alt="Wireshark" />
 
   <!-- Core Languages & Dev Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" />
@@ -21,12 +21,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" alt="Linux" />
 
   <!-- Cloud Platforms -->
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg"   height="34" alt="AWS" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" height="34" alt="AWS" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" height="34" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="34" alt="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="34" alt="Google Cloud" />
 </p>
 
 ## 📫 Connect with Me
+ Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vijaysinghpuwar/" target="_blank">
