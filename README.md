@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hello, I'm <strong>Vijaysingh Puwar</strong></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=F7F7F7&center=true&vCenter=true&width=500&lines=👋+Hello%2C+I'm+Vijaysingh+Puwar;Cybersecurity+Engineer" alt="Typing animation introducing Vijaysingh Puwar" />
+</p>
 
 ## 🌟 Skills
 
