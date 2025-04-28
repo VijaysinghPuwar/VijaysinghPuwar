@@ -36,6 +36,12 @@
 
 ---
 
+## 📊 GitHub Stats & Top Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VijaysinghPuwar&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Most used languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" width="420" alt="Top Languages" />
+</p>
+
+<p align="center" style="font-size:14px;">
+  *The chart above now shows your eight most‑used languages with a vibrant <code>tokyonight</code> theme and no border for a cleaner look.*
 </p>
