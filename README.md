@@ -2,8 +2,12 @@
 
 ## 🌟 Skills
 
+<!-- Security & Cyber-Ops first -->
 <p align="left" style="display:flex;gap:6px;flex-wrap:wrap;">
-  <!-- Core Languages & Tools -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.11.0/icons/burpsuite.svg"  height="34" alt="Burp Suite" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.11.0/icons/wireshark.svg"  height="34" alt="Wireshark" />
+
+  <!-- Core Languages & Dev Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"   height="34" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
@@ -14,11 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="34" alt="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"   height="34" alt="Linux" />
 
-  <!-- Security tooling -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.11.0/icons/burpsuite.svg"  height="34" alt="Burp Suite" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.11.0/icons/wireshark.svg"  height="34" alt="Wireshark" />
-
-  <!-- Cloud platforms -->
+  <!-- Cloud Platforms -->
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg"   height="34" alt="AWS" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" height="34" alt="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="34" alt="Google Cloud" />
