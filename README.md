@@ -6,7 +6,6 @@
 ## 🌟 Skills
 <p align="left" style="display:flex;gap:8px;flex-wrap:wrap;">
   <!-- Security & Cyber-Ops first -->
-  <img src="https://cdn.simpleicons.org/burpsuite/ff8132" height="34" alt="Burp Suite" />
   <img src="https://cdn.simpleicons.org/wireshark/167f92" height="34" alt="Wireshark" />
 
   <!-- Core Languages & Dev Tools -->
