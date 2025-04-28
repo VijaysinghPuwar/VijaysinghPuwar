@@ -6,8 +6,8 @@
 ## 🌟 Skills
 <p align="left" style="display:flex;gap:8px;flex-wrap:wrap;">
   <!-- Security & Cyber-Ops first -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burpsuite/burpsuite-original.svg" height="34" alt="Burp Suite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="34" alt="Wireshark" />
+  <img src="https://cdn.simpleicons.org/burpsuite/ff8132" height="34" alt="Burp Suite" />
+  <img src="https://cdn.simpleicons.org/wireshark/167f92" height="34" alt="Wireshark" />
 
   <!-- Core Languages & Dev Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" />
@@ -27,8 +27,6 @@
 </p>
 
 ## 📫 Connect with Me
- Connect with Me
- Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vijaysinghpuwar/" target="_blank">
@@ -45,5 +43,5 @@
 ## 📊 GitHub Stats & Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="420" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="420" alt="Top Languages" />
 </p>
