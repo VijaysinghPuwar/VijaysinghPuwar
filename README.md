@@ -12,9 +12,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="34" alt="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" alt="Linux" />
-  <img src="https://cdn.simpleicons.org/burpsuite/FF8132" height="34" alt="Burp Suite" />
-  <img src="https://cdn.simpleicons.org/wireshark/167f92" height="34" alt="Wireshark" />
-  <img src="https://cdn.simpleicons.org/nmap/4692CE" height="34" alt="Nmap" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" height="34" alt="Burp Suite" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" height="34" alt="Wireshark" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" height="34" alt="Nmap" />
   <img src="https://skillicons.dev/icons?i=aws" height="34" alt="AWS" />
   <img src="https://skillicons.dev/icons?i=azure" height="34" alt="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="34" alt="Google Cloud" />
@@ -37,5 +37,4 @@
 ## 📊 GitHub Stats & Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="420" alt="Top Languages" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=8&theme=tokyonight&hid
