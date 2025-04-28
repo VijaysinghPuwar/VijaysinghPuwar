@@ -17,7 +17,6 @@
   <!-- Security tooling -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.11.0/icons/burpsuite.svg"  height="34" alt="Burp Suite" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.11.0/icons/wireshark.svg"  height="34" alt="Wireshark" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.11.0/icons/nmap.svg"       height="34" alt="Nmap" />
 
   <!-- Cloud platforms -->
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg"   height="34" alt="AWS" />
