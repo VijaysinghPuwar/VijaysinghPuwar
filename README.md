@@ -3,8 +3,6 @@
 </p>
 
 ## 🌟 Skills
-
-<!-- Security & Cyber‑Ops first -->
 <p align="left">
   <img src="https://skillicons.dev/icons?i=burpsuite" height="34" alt="Burp Suite" />&nbsp;
   <img src="https://skillicons.dev/icons?i=wireshark" height="34" alt="Wireshark" />&nbsp;
