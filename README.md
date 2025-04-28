@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=700&color=F7F7F7&center=true&vCenter=true&width=500&height=45&lines=Hello%2C+I'm+Vijaysingh+Puwar;Cybersecurity+Engineer" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=600&color=F7F7F7&center=true&vCenter=true&width=600&height=45&lines=Hello%2C+I'm+Vijaysingh+Puwar;Cybersecurity+Engineer;Ethical+Hacker;Cloud+Security+Specialist;SIEM+%26+Incident+Response+Analyst;Aspiring+OSCP+%26+CISSP" alt="Typing introduction" />
 </p>
 
 ## 🌟 Skills
