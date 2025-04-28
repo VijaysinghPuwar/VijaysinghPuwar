@@ -4,10 +4,10 @@
 </p>
 
 ## 🌟 Skills
-<p align="left" style="display:flex;gap:6px;flex-wrap:wrap;">
-  <!-- Security & Cyber‑Ops first -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/burpsuite-colored.svg" height="34" alt="Burp Suite" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wireshark-colored.svg" height="34" alt="Wireshark" />
+<p align="left" style="display:flex;gap:8px;flex-wrap:wrap;">
+  <!-- Security & Cyber-Ops first -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burpsuite/burpsuite-original.svg" height="34" alt="Burp Suite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="34" alt="Wireshark" />
 
   <!-- Core Languages & Dev Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" />
@@ -27,6 +27,7 @@
 </p>
 
 ## 📫 Connect with Me
+ Connect with Me
  Connect with Me
 
 <p align="left">
