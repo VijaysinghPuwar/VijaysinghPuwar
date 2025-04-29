@@ -1,7 +1,8 @@
 <!-- Animated Intro -------------------------------------------------->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=600&color=FF0000&center=true&vCenter=true&width=600&height=45&lines=Hello%2C+I'm+Vijay;Cybersecurity+Engineer;Ethical+Hacker;Cloud+Security+Specialist;SIEM+%26+Incident+Response+Analyst;Aspiring+OSCP+%26+CISSP" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=600&color=FF0000&center=true&vCenter=true&width=650&height=45&lines=Hello%2C+I'm+Vijay;I+am+Cybersecurity+Engineer;I+am+Ethical+Hacker;I+am+Cloud+Security+Specialist;I+am+SIEM+%26+Incident+Response+Analyst;Aspiring+OSCP+%26+CISSP" alt="Typing introduction" />
 </p>
+
 
 
 ## 🌟 Skills
