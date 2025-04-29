@@ -49,5 +49,7 @@
 ## 🎓 Certifications
 
 <p align="left">
-  <a href="https://www.credly.com/badges/ca0a4bbf-50a4-41a0-b105-3ea645347a7f/public_url" style="color:#FF0000;font-weight:bold;text-transform:uppercase;text-decoration:none;" target="_blank">COMPTIA SECURITY+</a>
+  <a href="https://www.credly.com/badges/ca0a4bbf-50a4-41a0-b105-3ea645347a7f/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/COMPTIA%20SECURITY%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+" />
+  </a>
 </p>
