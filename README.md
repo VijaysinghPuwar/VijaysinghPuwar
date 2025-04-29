@@ -45,3 +45,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="420" alt="Top Languages" />
 </p>
+
+
+## 🎓 Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/badges/ca0a4bbf-50a4-41a0-b105-3ea645347a7f/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/31d0498a-0207-4b82-9bfa-1c2f13c79ec4/image.png" height="88" alt="CompTIA Security+" />
+  </a>
+</p>
