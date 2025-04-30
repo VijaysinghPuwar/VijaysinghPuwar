@@ -1,6 +1,6 @@
 <!-- Animated Intro -------------------------------------------------->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=600&color=FF0000&center=true&vCenter=true&width=650&height=45&lines=Hello%2C+I+am+Vijay;I+am+Cybersecurity+Engineer;I+am+Ethical+Hacker;I+am+Cloud+Security+Specialist;I+am+SIEM+%26+Incident+Response+Analyst;Aspiring+OSCP+%26+CISSP" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=600&color=FF0000&center=true&vCenter=true&width=650&height=45&lines=Hello%2C+I+am+Vijay;You+can+call+VJ;I+am+Cybersecurity+Engineer;I+am+Ethical+Hacker;I+am+Cloud+Security+Specialist;I+am+SIEM+%26+Incident+Response+Analyst;Aspiring+OSCP+%26+CISSP" alt="Typing introduction" />
 </p>
 
 
