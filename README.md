@@ -50,4 +50,7 @@
   <a href="https://www.credly.com/badges/ca0a4bbf-50a4-41a0-b105-3ea645347a7f/public_url" target="_blank">
     <img src="https://img.shields.io/badge/COMPTIA%20SECURITY%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+" />
   </a>
+  <a href="https://www.credly.com/badges/b7bc03dd-1783-42ff-860b-7a54e82883c9/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity" />
+  </a>
 </p>
