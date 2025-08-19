@@ -1,6 +1,11 @@
 <!-- Animated Intro -------------------------------------------------->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=600&color=FF0000&center=true&vCenter=true&width=800&height=45&lines=Hello%2C+I+am+Vijay;You+can+call+me+VJ;I+am+a+Cybersecurity+Engineer;I+am+also+an+Ethical+Hacker;I+specialize+in+Cloud+Security;I+can+work+as+a+SIEM+%26+Incident+Response+Analyst;Aspiring+OSCP+%26+CISSP" alt="Typing introduction" />
+  <a href="https://www.linkedin.com/in/vijaysinghpuwar/" target="_blank">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=800&color=FF3131&center=true&vCenter=true&width=900&height=48&lines=%5BALERT%5D%20ACCESS%20GRANTED%20%E2%96%B2;It%27s%20me%20Vijay%20%7C%20Cybersecurity%20Engineer;Cloud%20Security%20%7C%20SIEM%20%26%20IR;Security%2B%20%26%20CCNA%20%7C%20OSCP%20%26%20CISSP%20(in%20progress)"
+      alt="[ALERT] ACCESS GRANTED ▲ | It's me Vijay | Cybersecurity Engineer | Cloud Security | SIEM & IR | Security+ & CCNA | OSCP & CISSP (in progress)"
+    />
+  </a>
 </p>
 
 ## 🌟 Skills
