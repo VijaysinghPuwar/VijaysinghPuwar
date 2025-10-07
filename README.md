@@ -39,9 +39,13 @@
 </p>
 
 ## 📊 GitHub Stats & Top Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="420" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=7200"
+    width="420"
+    alt="Top Languages (GitHub Readme Stats)"
+    loading="lazy"
+  />
 </p>
 
 ## 🎓 Certifications
@@ -53,5 +57,4 @@
   <a href="https://www.credly.com/badges/6904480e-3484-456e-a1e1-8095b7b4ae76/public_url" target="_blank">
     <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certified Network Associate (CCNA)" />
   </a>
-  
 </p>
