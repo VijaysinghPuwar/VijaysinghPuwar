@@ -53,4 +53,5 @@
   <a href="https://www.credly.com/badges/6904480e-3484-456e-a1e1-8095b7b4ae76/public_url" target="_blank">
     <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certified Network Associate (CCNA)" />
   </a>
+  
 </p>
