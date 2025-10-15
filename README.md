@@ -58,11 +58,38 @@
 
 ## 🎓 Certifications
 
-<p align="left">
-  <a href="https://www.credly.com/badges/ca0a4bbf-50a4-41a0-b105-3ea645347a7f/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/COMPTIA%20SECURITY%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+" />
+<div
+  align="center"
+  style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; padding: 0 12px;"
+>
+  <a
+    href="https://www.credly.com/badges/ca0a4bbf-50a4-41a0-b105-3ea645347a7f/public_url"
+    target="_blank"
+    style="display: inline-flex; align-items: center; gap: 12px; padding: 14px 22px; border-radius: 999px; background: linear-gradient(135deg, #ff5858, #f09819); color: #ffffff; font-weight: 600; text-decoration: none; box-shadow: 0 12px 24px rgba(240, 152, 25, 0.25); min-width: 260px; justify-content: center; transition: transform 0.2s ease, box-shadow 0.2s ease;"
+  >
+    <img
+      src="https://images.credly.com/images/6837ab7d-603e-4727-bb0a-0baadfb1f3d3/securityplusce-certification-badge.png"
+      alt="CompTIA Security+"
+      width="40"
+      height="40"
+      loading="lazy"
+      style="border-radius: 50%; background: rgba(255, 255, 255, 0.9); padding: 6px;"
+    />
+    <span>CompTIA Security+</span>
   </a>
-  <a href="https://www.credly.com/badges/6904480e-3484-456e-a1e1-8095b7b4ae76/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certified Network Associate (CCNA)" />
+  <a
+    href="https://www.credly.com/badges/6904480e-3484-456e-a1e1-8095b7b4ae76/public_url"
+    target="_blank"
+    style="display: inline-flex; align-items: center; gap: 12px; padding: 14px 22px; border-radius: 999px; background: linear-gradient(135deg, #1ba0d7, #1372bd); color: #ffffff; font-weight: 600; text-decoration: none; box-shadow: 0 12px 24px rgba(19, 114, 189, 0.25); min-width: 260px; justify-content: center; transition: transform 0.2s ease, box-shadow 0.2s ease;"
+  >
+    <img
+      src="https://images.credly.com/images/a3fa45b3-5c83-41f5-988f-31f3b6b5b4d8/Cisco_CCNA.png"
+      alt="Cisco Certified Network Associate"
+      width="40"
+      height="40"
+      loading="lazy"
+      style="border-radius: 50%; background: rgba(255, 255, 255, 0.9); padding: 6px;"
+    />
+    <span>Cisco Certified Network Associate</span>
   </a>
-</p>
+</div>
