@@ -4,31 +4,31 @@
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=800&color=FF3131&center=true&vCenter=true&width=900&height=48&lines=%5BALERT%5D%20ACCESS%20GRANTED%20%E2%96%B2;It%27s%20me%20Vijay%20%7C%20Cybersecurity%20Engineer;Cloud%20Security%20%7C%20SIEM%20%26%20IR;Security%2B%20%26%20CCNA%20%7C%20OSCP%20%26%20CISSP%20(in%20progress)"
       alt="[ALERT] ACCESS GRANTED ▲ | It's me Vijay | Cybersecurity Engineer | Cloud Security | SIEM & IR | Security+ & CCNA | OSCP & CISSP (in progress)"
+      width="900"
+      style="max-width: 100%; height: auto;"
     />
   </a>
 </p>
 
 ## 🌟 Skills
-<table align="left" border="0" cellpadding="0" cellspacing="8">
-  <tr>
-    <td align="center" valign="middle"><img src="https://cdn.simpleicons.org/wireshark/167f92" width="36" alt="Wireshark" loading="lazy"></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python" loading="lazy"></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" alt="Bash" loading="lazy"></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript" loading="lazy"></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" alt="TypeScript" loading="lazy"></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git" loading="lazy"></td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" alt="Docker" loading="lazy"></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="36" alt="Jenkins" loading="lazy"></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" alt="Linux" loading="lazy"></td>
-    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="36" alt="AWS" loading="lazy"></td>
-    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="36" alt="Azure" loading="lazy"></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" alt="Google Cloud" loading="lazy"></td>
-  </tr>
-</table>
-
-<br clear="both" />
+<div align="center">
+  <p>
+    <img src="https://cdn.simpleicons.org/wireshark/167f92" width="48" alt="Wireshark" loading="lazy" style="margin: 6px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python" loading="lazy" style="margin: 6px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" alt="Bash" loading="lazy" style="margin: 6px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" loading="lazy" style="margin: 6px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" alt="TypeScript" loading="lazy" style="margin: 6px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git" loading="lazy" style="margin: 6px;" />
+  </p>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" alt="Docker" loading="lazy" style="margin: 6px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" alt="Jenkins" loading="lazy" style="margin: 6px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux" loading="lazy" style="margin: 6px;" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="48" alt="AWS" loading="lazy" style="margin: 6px;" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="48" alt="Azure" loading="lazy" style="margin: 6px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" alt="Google Cloud" loading="lazy" style="margin: 6px;" />
+  </p>
+</div>
 
 
 ## 📫 Connect with Me
@@ -52,6 +52,7 @@
     width="420"
     alt="Top Languages (GitHub Readme Stats)"
     loading="lazy"
+    style="max-width: 100%; height: auto;"
   />
 </p>
 
