@@ -52,38 +52,6 @@
   />
 </p>
 
-<!-- Optional: quick legend (no extra requests) -->
-<p align="center">
-  <sub>Legend: Python · PowerShell · R · Batchfile · (hidden: HTML/CSS/SCSS)</sub>
-</p>
-
-<details>
-  <summary><b>Show detailed stats</b></summary>
-
-  <br/>
-
-  <!-- Two matched cards: overall stats + condensed languages -->
-  <p align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=VijaysinghPuwar&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=21600"
-      alt="Vijay's GitHub stats"
-      height="170"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=8&hide=html,css,scss&theme=tokyonight&hide_border=true&cache_seconds=21600"
-      alt="Top languages (compact)"
-      height="170"
-    />
-  </p>
-
-  <!-- Streak kept separate so mobile doesn't get cramped -->
-  <p align="center">
-    <img
-      src="https://streak-stats.demolab.com?user=VijaysinghPuwar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=520"
-      alt="GitHub contribution streak"
-    />
-  </p>
-</details>
 
 
 ## 🎓 Certifications
