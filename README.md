@@ -9,27 +9,30 @@
 </p>
 
 ## 🌟 Skills
-<!-- Swapped HTML table (heavy) for lightweight badges that wrap on mobile -->
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=222" alt="Linux" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=00E572" alt="Splunk" />
-</p>
+<table align="left" border="0" cellpadding="0" cellspacing="8">
+  <tr>
+    <td align="center" valign="middle"><img src="https://cdn.simpleicons.org/wireshark/167f92" width="36" alt="Wireshark" loading="lazy"></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python" loading="lazy"></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" alt="Bash" loading="lazy"></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript" loading="lazy"></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" alt="TypeScript" loading="lazy"></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git" loading="lazy"></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" alt="Docker" loading="lazy"></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="36" alt="Jenkins" loading="lazy"></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" alt="Linux" loading="lazy"></td>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="36" alt="AWS" loading="lazy"></td>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="36" alt="Azure" loading="lazy"></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" alt="Google Cloud" loading="lazy"></td>
+  </tr>
+</table>
 
 <br clear="both" />
 
+
 ## 📫 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/vijaysinghpuwar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -42,19 +45,18 @@
   </a>
 </p>
 
-## 📊 GitHub Overview
-
-<!-- Primary: one wide Languages card -->
+## 📊 GitHub Stats & Top Languages
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=8&hide=html,css,scss&card_width=820&theme=tokyonight&hide_border=true&cache_seconds=21600"
-    alt="Most used languages by Vijay"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=7200"
+    width="420"
+    alt="Top Languages (GitHub Readme Stats)"
+    loading="lazy"
   />
 </p>
 
-
-
 ## 🎓 Certifications
+
 <p align="left">
   <a href="https://www.credly.com/badges/ca0a4bbf-50a4-41a0-b105-3ea645347a7f/public_url" target="_blank">
     <img src="https://img.shields.io/badge/COMPTIA%20SECURITY%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+" />
