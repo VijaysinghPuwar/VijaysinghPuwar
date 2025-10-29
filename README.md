@@ -1,18 +1,12 @@
 <!-- ========== Animated Intro ================================================= -->
 <p align="center">
-  <picture>
-    <!-- Mobile (≤600px) -->
-    <source media="(max-width: 600px)"
-            srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1800&pause=700&color=FF3131&center=true&vCenter=true&width=360&height=60&lines=%5BALERT%5D+ACCESS+GRANTED+%E2%96%B2;Vijay+%7C+Cybersecurity+Engineer;Cloud+Sec+%7C+SIEM+%26+IR" />
-    <!-- Tablet (≤900px) -->
-    <source media="(max-width: 900px)"
-            srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1900&pause=750&color=FF3131&center=true&vCenter=true&width=600&height=56&lines=%5BALERT%5D+ACCESS+GRANTED+%E2%96%B2;Vijay+%7C+Cybersecurity+Engineer;Cloud+Sec+%7C+SIEM+%26+IR" />
-    <!-- Desktop fallback -->
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=FF3131&center=true&vCenter=true&width=860&height=44&lines=%5BALERT%5D+ACCESS+GRANTED+%E2%96%B2;It's+me+Vijay+%7C+Cybersecurity+Engineer;Cloud+Security+%7C+SIEM+%26+IR;Security%2B+%26+CCNA+%7C+OSCP+%26+CISSP+(in+progress)"
-      alt="[ALERT] ACCESS GRANTED ▲ — Vijay | Cybersecurity Engineer" />
-  </picture>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1800&pause=700&color=FF3131&center=true&vCenter=true&width=900&height=60&lines=%5BALERT%5D+ACCESS+GRANTED+%E2%96%B2;Vijay+%7C+Cybersecurity+Engineer;Cloud+Sec+%7C+SIEM+%26+IR"
+    alt="[ALERT] ACCESS GRANTED ▲ — Vijay | Cybersecurity Engineer"
+    width="100%"
+  />
 </p>
+
 
 
 ---
