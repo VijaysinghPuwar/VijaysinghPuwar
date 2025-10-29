@@ -50,11 +50,22 @@
 ## 📊 GitHub Overview
 <!-- Hero languages card (hide markup-heavy stacks to surface core coding time) -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=8&hide=html,css,scss&card_width=820&theme=tokyonight&hide_border=true&cache_seconds=21600"
-    alt="Most used languages by Vijay"
-  />
+  <picture>
+    <!-- Mobile (≤600px): render a smaller card then scale up => larger text -->
+    <source media="(max-width: 600px)"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=6&hide=html,css,scss&card_width=360&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+    <!-- Tablet (≤900px) -->
+    <source media="(max-width: 900px)"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=6&hide=html,css,scss&card_width=520&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+    <!-- Desktop -->
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=8&hide=html,css,scss&card_width=820&theme=tokyonight&hide_border=true&cache_seconds=21600"
+      alt="Most used languages by Vijay"
+      width="100%"
+    />
+  </picture>
 </p>
+
 
 <details>
   <summary><b>Show detailed stats</b></summary>
