@@ -1,4 +1,4 @@
-<!-- Animated Intro -------------------------------------------------->
+
 <p align="center">
 <a href="https://www.linkedin.com/in/vijaysinghpuwar/" target="_blank">
 <img
