@@ -9,24 +9,23 @@
 </p>
 
 ## 🌟 Skills
-<table align="left" border="0" cellpadding="0" cellspacing="8">
-  <tr>
-    <td align="center" valign="middle"><img src="https://cdn.simpleicons.org/wireshark/167f92" width="36" alt="Wireshark" loading="lazy"></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python" loading="lazy"></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" alt="Bash" loading="lazy"></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript" loading="lazy"></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" alt="TypeScript" loading="lazy"></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git" loading="lazy"></td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" alt="Docker" loading="lazy"></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="36" alt="Jenkins" loading="lazy"></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" alt="Linux" loading="lazy"></td>
-    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="36" alt="AWS" loading="lazy"></td>
-    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="36" alt="Azure" loading="lazy"></td>
-    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" alt="Google Cloud" loading="lazy"></td>
-  </tr>
-</table>
+<!-- Swapped HTML table (heavy) for lightweight badges that wrap on mobile -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=222" alt="Linux" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=00E572" alt="Splunk" />
+</p>
 
 <br clear="both" />
 
@@ -43,15 +42,49 @@
   </a>
 </p>
 
-## 📊 GitHub Stats & Top Languages
+## 📊 GitHub Overview
+
+<!-- Primary: one wide Languages card -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=7200"
-    width="420"
-    alt="Top Languages (GitHub Readme Stats)"
-    loading="lazy"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=8&hide=html,css,scss&card_width=820&theme=tokyonight&hide_border=true&cache_seconds=21600"
+    alt="Most used languages by Vijay"
   />
 </p>
+
+<!-- Optional: quick legend (no extra requests) -->
+<p align="center">
+  <sub>Legend: Python · PowerShell · R · Batchfile · (hidden: HTML/CSS/SCSS)</sub>
+</p>
+
+<details>
+  <summary><b>Show detailed stats</b></summary>
+
+  <br/>
+
+  <!-- Two matched cards: overall stats + condensed languages -->
+  <p align="center">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=VijaysinghPuwar&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=21600"
+      alt="Vijay's GitHub stats"
+      height="170"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=8&hide=html,css,scss&theme=tokyonight&hide_border=true&cache_seconds=21600"
+      alt="Top languages (compact)"
+      height="170"
+    />
+  </p>
+
+  <!-- Streak kept separate so mobile doesn't get cramped -->
+  <p align="center">
+    <img
+      src="https://streak-stats.demolab.com?user=VijaysinghPuwar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=520"
+      alt="GitHub contribution streak"
+    />
+  </p>
+</details>
+
 
 ## 🎓 Certifications
 <p align="left">
