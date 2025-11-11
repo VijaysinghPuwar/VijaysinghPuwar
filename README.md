@@ -94,7 +94,12 @@
   <a href="https://www.credly.com/badges/6904480e-3484-456e-a1e1-8095b7b4ae76/public_url" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certified Network Associate (CCNA)" />
   </a>
+  <a href="https://www.credly.com/badges/25d55581-ef1b-4a39-80f1-185ad6a0aff0/public_url" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CompTIA%20CySA%2B-8B0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Cybersecurity Analyst (CySA+)" />
+  </a>
 </p>
+
+
 
 <!-- Notes:
 - Typing banner kept slim for faster load; bump width/height if you change lines.
