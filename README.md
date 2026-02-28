@@ -48,38 +48,41 @@
 ---
 
 ## 📊 GitHub Overview
-<!-- Hero languages card (hide markup-heavy stacks to surface core coding time) -->
-<p align="center">
-  <picture>
-    <!-- Mobile (≤600px): render a smaller card then scale up => larger text -->
-    <source media="(max-width: 600px)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=6&hide=html,css,scss&card_width=360&theme=tokyonight&hide_border=true&cache_seconds=21600" />
-    <!-- Tablet (≤900px) -->
-    <source media="(max-width: 900px)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=6&hide=html,css,scss&card_width=520&theme=tokyonight&hide_border=true&cache_seconds=21600" />
-    <!-- Desktop -->
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijaysinghPuwar&layout=compact&langs_count=8&hide=html,css,scss&card_width=820&theme=tokyonight&hide_border=true&cache_seconds=21600"
-      alt="Most used languages by Vijay"
-      width="100%"
-    />
-  </picture>
-</p>
 
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VijaysinghPuwar&theme=tokyonight"
+    alt="Most commit language"
+    height="170"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VijaysinghPuwar&theme=tokyonight"
+    alt="Repos per language"
+    height="170"
+  />
+</p>
 
 <details>
   <summary><b>Show detailed stats</b></summary>
   <br/>
   <p align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=VijaysinghPuwar&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=21600"
-      alt="Vijay's GitHub stats"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VijaysinghPuwar&theme=tokyonight"
+      alt="Stats"
       height="170"
     />
     <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VijaysinghPuwar&theme=tokyonight&utcOffset=-5"
+      alt="Productive time"
+      height="170"
+    />
+  </p>
+
+  <p align="center">
+    <img
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VijaysinghPuwar&theme=tokyonight"
       alt="Profile summary details"
-      height="170"
+      width="96%"
     />
   </p>
 </details>
