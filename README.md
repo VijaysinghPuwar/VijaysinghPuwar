@@ -1,54 +1,51 @@
-<h1 align="center">Vijaysingh Puwar</h1>
-<h3 align="center">Cybersecurity Engineer · M.S. @ Pace University · 4.0 GPA</h3>
+<h3 align="center">Software Engineer · M.S. Cybersecurity @ Pace University · GPA 3.91</h3>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+production+systems;Multi-provider+LLMs+%C2%B7+FastAPI+%C2%B7+Next.js;Secure-by-default+architecture;Open+to+Dec+2026+roles+%C2%B7+NYC" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://recapverse.com"><img src="https://img.shields.io/badge/Recap_Verse-live-2ea44f?style=for-the-badge" /></a>&nbsp;
+  <a href="https://vijaysinghpuwar.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/vijaysinghpuwar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://www.youtube.com/@vijaysinghpuwar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;
-  <a href="https://www.credly.com/badges/ca0a4bbf-50a4-41a0-b105-3ea645347a7f/public_url"><img src="https://img.shields.io/badge/Security%2B-E63946?style=for-the-badge&logo=comptia&logoColor=white" /></a>&nbsp;
-  <a href="https://www.credly.com/badges/25d55581-ef1b-4a39-80f1-185ad6a0aff0/public_url"><img src="https://img.shields.io/badge/CySA%2B-C1121F?style=for-the-badge&logo=comptia&logoColor=white" /></a>&nbsp;
-  <a href="https://www.credly.com/badges/6904480e-3484-456e-a1e1-8095b7b4ae76/public_url"><img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+  <a href="mailto:vpuwar77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<h3 align="center">🛡️ What I Work With</h3>
+### 🚀 What I'm building
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,js,ts,linux,docker,aws,azure,gcp,git&perline=10&theme=dark" />
-</p>
+**[Recap Verse](https://recapverse.com)** — Production AI platform · v12.0.0 · 290 deployments
+Multi-provider LLM integration (Claude, GPT, Gemini) through a deterministic 5-stage pipeline. FastAPI backend with 19 REST routers, 900+ pytest tests (mongomock-backed), and a full codebase security audit. Next.js 16 / React 19 frontend on Vercel, MongoDB Atlas + Cloudflare R2 data layer, BYOK architecture with AES-GCM key encryption. Python 76.8% · TypeScript 22.5%.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wazuh-3CBFEF?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Suricata-F6A821?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-</p>
+**[JEE Test Simulator](https://jee-test-simulator.vercel.app)** — Secure LLM-integrated web app
+NTA-style CBT simulator with multi-provider vision-fallback PDF parsing. AES-256-GCM BYOK keys bound to user via AAD, Zod-validated model outputs, CSP + HSTS, per-user rate limiting.
 
-<p align="center"><i>SIEM · Cloud Security · Pen Testing · Incident Response · Zero Trust · DevSecOps</i></p>
+**[CS 601C Capstone](https://github.com/VijaysinghPuwar/cs601c-final-project)** — Reproducible analytics pipeline
+64-page technical report on cybersecurity cost modeling.
 
 ---
 
-<h3 align="center">📊 Stats</h3>
+### 🛠️ Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VijaysinghPuwar&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&rank_icon=github" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=VijaysinghPuwar&theme=radical&hide_border=true&background=0d1117" height="165" />
-</p>
+**Languages** Python · TypeScript · JavaScript · PowerShell · Bash
+**Backend** FastAPI · Pydantic v2 · Node.js · REST APIs · MongoDB · Redis · PostgreSQL basics
+**Frontend** Next.js · React · Tailwind · NextAuth
+**Cloud & Infra** Google Cloud Run · Vercel · Cloudflare R2 · Docker · Git · CI/CD
+**Security** AES-GCM · JWT · secure coding · Nmap · iptables · Wireshark
+**Learning** IS 680 Data Science I · Kubernetes fundamentals
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VijaysinghPuwar&theme=redical&hide_border=true&bg_color=0d1117&color=fe428e&line=fe428e&point=ffffff&area=true&area_color=fe428e20" width="95%" />
-</p>
+---
+
+### 📜 Credentials
+
+M.S. Cybersecurity @ Pace, Seidenberg School of CSIS (Dec 2026, GPA 3.91)
+CompTIA [Security+](https://www.credly.com/badges/ca0a4bbf-50a4-41a0-b105-3ea645347a7f/public_url) · [CySA+](https://www.credly.com/badges/25d55581-ef1b-4a39-80f1-185ad6a0aff0/public_url) · Cisco [CCNA](https://www.credly.com/badges/6904480e-3484-456e-a1e1-8095b7b4ae76/public_url) · Google AI Essentials
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VijaysinghPuwar&style=flat-square&color=E63946&label=Profile+Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VijaysinghPuwar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="160" />
 </p>
