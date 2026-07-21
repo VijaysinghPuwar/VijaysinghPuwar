@@ -15,30 +15,6 @@
 
 ---
 
-### 🚀 What I'm building
-
-**[Recap Verse](https://recapverse.com)** — Production AI platform · v12.0.0 · 290 deployments
-Multi-provider LLM integration (Claude, GPT, Gemini) through a deterministic 5-stage pipeline. FastAPI backend with 19 REST routers, 900+ pytest tests (mongomock-backed), and a full codebase security audit. Next.js 16 / React 19 frontend on Vercel, MongoDB Atlas + Cloudflare R2 data layer, BYOK architecture with AES-GCM key encryption. Python 76.8% · TypeScript 22.5%.
-
-**[JEE Test Simulator](https://jee-test-simulator.vercel.app)** — Secure LLM-integrated web app
-NTA-style CBT simulator with multi-provider vision-fallback PDF parsing. AES-256-GCM BYOK keys bound to user via AAD, Zod-validated model outputs, CSP + HSTS, per-user rate limiting.
-
-**[CS 601C Capstone](https://github.com/VijaysinghPuwar/cs601c-final-project)** — Reproducible analytics pipeline
-64-page technical report on cybersecurity cost modeling.
-
----
-
-### 🛠️ Stack
-
-**Languages** Python · TypeScript · JavaScript · PowerShell · Bash
-**Backend** FastAPI · Pydantic v2 · Node.js · REST APIs · MongoDB · Redis · PostgreSQL basics
-**Frontend** Next.js · React · Tailwind · NextAuth
-**Cloud & Infra** Google Cloud Run · Vercel · Cloudflare R2 · Docker · Git · CI/CD
-**Security** AES-GCM · JWT · secure coding · Nmap · iptables · Wireshark
-**Learning** IS 680 Data Science I · Kubernetes fundamentals
-
----
-
 ### 📜 Credentials
 
 M.S. Cybersecurity @ Pace, Seidenberg School of CSIS (Dec 2026, GPA 3.91)
