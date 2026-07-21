@@ -19,5 +19,3 @@
 
 M.S. Cybersecurity @ Pace, Seidenberg School of CSIS (Dec 2026, GPA 3.91)
 CompTIA [Security+](https://www.credly.com/badges/ca0a4bbf-50a4-41a0-b105-3ea645347a7f/public_url) · [CySA+](https://www.credly.com/badges/25d55581-ef1b-4a39-80f1-185ad6a0aff0/public_url) · Cisco [CCNA](https://www.credly.com/badges/6904480e-3484-456e-a1e1-8095b7b4ae76/public_url) · Google AI Essentials
-
----
