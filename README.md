@@ -1,4 +1,4 @@
-<h3 align="center">Software Engineer · M.S. Cybersecurity @ Pace University · GPA 3.92</h3>
+<h3 align="center">Cybersecurity Engineer · M.S. Cybersecurity @ Pace University · GPA 3.92</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
