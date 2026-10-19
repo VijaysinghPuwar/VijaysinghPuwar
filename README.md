@@ -17,6 +17,7 @@
 
 ### 🛠 Projects
 
+- [**R2Dock**](https://github.com/VijaysinghPuwar/R2Dock): desktop file manager for Cloudflare R2 with crash-safe uploads · Rust, Tauri, React
 - [**BreachScope**](https://github.com/VijaysinghPuwar/BreachScope): live threat-intelligence map on six public feeds · Go, PostgreSQL, React
 - [**Recap Verse**](https://recapverse.com): AI platform that turns manga panels into narrated recap videos · FastAPI, Next.js, LLM APIs
 - [**Dual-ISP Network Assessment**](https://github.com/VijaysinghPuwar/Dual-ISP-Network-Assessment-and-Subnet-Remediation): found and fixed a Layer 2 subnet conflict · Nmap, Wireshark, PowerShell
