@@ -20,28 +20,22 @@
 <table align="center">
   <tbody>
     <tr>
-      <td align="center"><a href="https://recapverse.com"><b>Recap Verse</b></a><br /><sub>AI platform that turns manga panels into narrated recap videos</sub></td>
-      <td align="center"><sub>FastAPI · Next.js · LLM APIs</sub></td>
+      <td align="center"><a href="https://recapverse.com"><b>Recap Verse</b></a><br /><sub>AI platform that turns manga panels into narrated recap videos</sub><br /><sub><code>FastAPI · Next.js · LLM APIs</code></sub></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/VijaysinghPuwar/R2Dock"><b>R2Dock</b></a><br /><sub>Desktop client for Cloudflare R2 with crash-safe uploads</sub></td>
-      <td align="center"><sub>Rust · Tauri · React</sub></td>
+      <td align="center"><a href="https://github.com/VijaysinghPuwar/R2Dock"><b>R2Dock</b></a><br /><sub>Desktop client for Cloudflare R2 with crash-safe uploads</sub><br /><sub><code>Rust · Tauri · React</code></sub></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/VijaysinghPuwar/BreachScope"><b>BreachScope</b></a><br /><sub>Live threat-intelligence map on public feeds</sub></td>
-      <td align="center"><sub>Go · PostgreSQL · React</sub></td>
+      <td align="center"><a href="https://github.com/VijaysinghPuwar/BreachScope"><b>BreachScope</b></a><br /><sub>Live threat-intelligence map on public feeds</sub><br /><sub><code>Go · PostgreSQL · React</code></sub></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/VijaysinghPuwar/enterprise-datacenter-network-lab"><b>Enterprise DC Network Lab</b></a><br /><sub>Redundant, segmented, failure-tested data center network</sub></td>
-      <td align="center"><sub>HSRP · OSPF · eBGP · Cisco ASA</sub></td>
+      <td align="center"><a href="https://github.com/VijaysinghPuwar/enterprise-datacenter-network-lab"><b>Enterprise DC Network Lab</b></a><br /><sub>Redundant, segmented, failure-tested data center network</sub><br /><sub><code>HSRP · OSPF · eBGP · Cisco ASA</code></sub></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/VijaysinghPuwar/win-dev-sec-bootstrap"><b>win-dev-sec-bootstrap</b></a><br /><sub>Audits 27 Windows endpoint security controls</sub></td>
-      <td align="center"><sub>PowerShell</sub></td>
+      <td align="center"><a href="https://github.com/VijaysinghPuwar/win-dev-sec-bootstrap"><b>win-dev-sec-bootstrap</b></a><br /><sub>Audits 27 Windows endpoint security controls</sub><br /><sub><code>PowerShell</code></sub></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/VijaysinghPuwar/spoonstill"><b>Spoonstill</b></a><br /><sub>Photo and narration video renderer</sub></td>
-      <td align="center"><sub>Rust · FFmpeg</sub></td>
+      <td align="center"><a href="https://github.com/VijaysinghPuwar/spoonstill"><b>Spoonstill</b></a><br /><sub>Photo and narration video renderer</sub><br /><sub><code>Rust · FFmpeg</code></sub></td>
     </tr>
   </tbody>
 </table>
